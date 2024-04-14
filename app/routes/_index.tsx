@@ -12,7 +12,7 @@ export default function Index() {
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
      <img
   src="https://storage.googleapis.com/strapi_images_execlog_aluminium/logos_azul_7354a0aae1/logos_azul_7354a0aae1.webp"
-width="5c00" height="300"  alt="Execlog - Digital Transformation Services, Lda"/>
+width="500" height="300"  alt="Execlog - Digital Transformation Services, Lda"/>
     </div>
   );
 }
